@@ -2,13 +2,6 @@
 
 #### A Movie / TV-Show streaming app with elegant UI
 
-|     |     |     |
-| --- | --- | --- |
-| ![](https://i.imgur.com/8r4B9lS.jpg) | ![](https://i.imgur.com/53HqjnI.jpg) | ![](https://i.imgur.com/bz31yDf.jpg) |
-
-|     |     |
-| --- | --- |
-| ![](https://i.imgur.com/CyWblFh.jpg) | ![](https://i.imgur.com/sf10Heu.jpg) |
 
 # Implementations
 <ul>
